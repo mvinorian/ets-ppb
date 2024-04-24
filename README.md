@@ -1,16 +1,30 @@
-# ets
+# ETS PPB
 
-A new Flutter project.
+5025211045
+Muhammad Ersya Vinorian
 
-## Getting Started
+### List Movies
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/mvinorian/ets_ppb/assets/54766683/507bb2a5-06d8-4b13-8f7d-ba1238c89f3e)
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/mvinorian/ets_ppb/assets/54766683/b0eef7ce-0543-4aaf-b48c-1000f4736b88)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Create Movie
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/mvinorian/ets_ppb/assets/54766683/37ba425d-a844-4f69-b606-14624585d846)
+
+![image](https://github.com/mvinorian/ets_ppb/assets/54766683/cc99f813-21b8-4a99-b87b-c6496664e5cb)
+
+### Detail Movie
+
+![image](https://github.com/mvinorian/ets_ppb/assets/54766683/9fa2a72f-6c2c-4d3a-ae16-59cd27ee0311)
+
+### Update Movie
+
+![image](https://github.com/mvinorian/ets_ppb/assets/54766683/8f4e1060-40a0-48cc-9906-b836a66f85b1)
+
+![image](https://github.com/mvinorian/ets_ppb/assets/54766683/a72a5493-a392-435c-8865-cb2c5965059c)
+
+### Delete Movie
+
+![image](https://github.com/mvinorian/ets_ppb/assets/54766683/43d0654f-d72d-470c-9eeb-8d99846bee71)
