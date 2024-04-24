@@ -41,7 +41,7 @@ class MovieForm extends StatelessWidget {
   Widget buildTitle() {
     return TextFormField(
       maxLines: 1,
-      initialValue: '',
+      initialValue: title ?? '',
       style: const TextStyle(
         color: Colors.black,
         fontWeight: FontWeight.bold,
@@ -61,7 +61,7 @@ class MovieForm extends StatelessWidget {
   Widget buildDescription() {
     return TextFormField(
       maxLines: 5,
-      initialValue: '',
+      initialValue: description ?? '',
       style: const TextStyle(
         color: Colors.black,
         fontWeight: FontWeight.bold,
@@ -82,7 +82,7 @@ class MovieForm extends StatelessWidget {
   Widget buildImageUrl() {
     return TextFormField(
       maxLines: 1,
-      initialValue: '',
+      initialValue: imageUrl ?? '',
       style: const TextStyle(
         color: Colors.black,
         fontWeight: FontWeight.bold,

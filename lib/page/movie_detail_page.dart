@@ -49,13 +49,14 @@ class _MovieDetailPageState extends State<MovieDetailPage> {
                 children: [
                   Image.network(movie.imageUrl),
                   Text(
-                    DateFormat.yMMMd().format(movie.createdAt),
-                  ),
-                  const SizedBox(height: 8),
-                  Text(
                     movie.title,
                     style: const TextStyle(
                         fontSize: 22, fontWeight: FontWeight.bold),
+                  ),
+                  const SizedBox(height: 8),
+                  Text(
+                    DateFormat.yMMMd().format(movie.createdAt),
+                    style: const TextStyle(fontSize: 12, color: Colors.black54),
                   ),
                   const SizedBox(height: 8),
                   Text(
